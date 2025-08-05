@@ -40,7 +40,7 @@ The dataset includes labeled human activities:
 | Upstairs   | 0.82      | 0.53   | 0.64     | 1174    |
 | Walking    | 0.79      | 0.94   | 0.86     | 4235    |
 
-![Confusion Matrix at 1Hz](result_images/confusion_matrix_1Hz.png)
+![Confusion Matrix at 1Hz](https://github.com/Shakhawat-Fahim/ActivityRecognition_From_LoW_Frequency_Accelerometer_Data/blob/main/conf_Matrix_1Hz.png)
 
 ---
 
@@ -57,7 +57,7 @@ The dataset includes labeled human activities:
 | Upstairs   | 0.78      | 0.51   | 0.62     | 2471    |
 | Walking    | 0.79      | 0.95   | 0.86     | 8486    |
 
-![Confusion Matrix at 2Hz](result_images/confusion_matrix_2Hz.png)
+![Confusion Matrix at 2Hz](https://github.com/Shakhawat-Fahim/ActivityRecognition_From_LoW_Frequency_Accelerometer_Data/blob/main/conf_Matrix_2Hz.png)
 
 ---
 
