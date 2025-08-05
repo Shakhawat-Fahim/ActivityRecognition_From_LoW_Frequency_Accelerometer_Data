@@ -84,9 +84,4 @@ See full implementation and plots in:
 **[`ActivityRecognition_From_LoW_Frequency_ACCL_Data.ipynb`](ActivityRecognition_From_LoW_Frequency_ACCL_Data.ipynb)**
 
 
----
-
-## ✉️ Contact
-
-Open an issue or connect for collaborations in low-power activity recognition systems.
 
