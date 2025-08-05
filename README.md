@@ -44,7 +44,7 @@ The dataset includes labeled human activities:
 
 ---
 
-## 🧪 Results — 2Hz Sampling
+## Results — 2Hz Sampling
 
 > At **2Hz**, performance improves further, especially for movement-based classes like **Jogging** and **Upstairs**.
 
